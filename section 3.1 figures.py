@@ -116,7 +116,7 @@ if __name__ == "__main__":
     # line_morning_peak(df)
     # line_night_peak(df)
 
-    # 发There are now four lows in both the morning and evening peaks, 
+    # There are now four lows in both the morning and evening peaks, 
     # so four full weeks from 8.1 - 8.28 were selected for the bar chart presentation to analyse the fluctuations
     # histogram_week(df)
 
